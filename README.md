@@ -10,4 +10,4 @@ This repository contains problem solutins of the given sets:
 
 3. <a href="https://github.com/kanishkgautam98/Coding-Ninjas/tree/master/Stacks%26Queues">Stacks and queues</a>
 
-4. <a href=https://github.com/kanishkgautam98/Coding-Ninjas/tree/master/Trees">Trees</a>
+4. <a href="https://github.com/kanishkgautam98/Coding-Ninjas/tree/master/Trees">Trees</a>
